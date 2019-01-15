@@ -1,0 +1,5 @@
+Algorithm:
+1. Assume x=0, y=1 and total=0 as variables
+2. Then we test using while loop and also check the even numbers in fibonnaci using if statement.
+3. Then we add all the even numbers.
+4. At last we print the sum of all the even numbers stored in the variable "total".
